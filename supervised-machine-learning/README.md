@@ -18,6 +18,7 @@ supervised-machine-learning
 |   |   ...
 |
 └── week-3
+    |   C1_W3_ASSIGNMENT_<assignment_name>.ipynb
     │   C1_W3_<file01_name>.ipynb
     |   C1_W3_<file02_name>.ipynb
     |   ...
