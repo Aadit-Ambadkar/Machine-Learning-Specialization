@@ -7,17 +7,17 @@ supervised-machine-learning
 │   README.md    
 │
 └── week-1
-│   │   file01.ipynb
-|   |   file02.ipynb
+│   │   C1_W1_<file01_name>.ipynb
+|   |   C1_W1_<file02_name>.ipynb
 |   |   ...
 |
 └── week-2
-│   │   file01.ipynb
-|   |   file02.ipynb
+│   │   C1_W2_<file01_name>.ipynb
+|   |   C1_W2_<file02_name>.ipynb
 |   |   ...
 |
 └── week-3
-    │   file01.ipynb
-    |   file02.ipynb
+    │   C1_W3_<file01_name>.ipynb
+    |   C1_W3_<file02_name>.ipynb
     |   ...
 ```
